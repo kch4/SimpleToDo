@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://vimeo.com/222606405
 <img src='https://vimeo.com/222606405' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
