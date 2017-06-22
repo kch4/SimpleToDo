@@ -4,7 +4,7 @@
 
 Submitted by: **Kathleen Hu**
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
@@ -26,11 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/kch4/SimpleToDo/blob/master/demo.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://vimeo.com/222606405' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-Was not able to include the persistence in a video before trying to add the optional feature (which resulted in app crashing).
+After adding the edit function, app kept crashing and needed debugging.
 
 ## License
 
